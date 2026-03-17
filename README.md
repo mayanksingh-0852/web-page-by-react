@@ -57,10 +57,9 @@ git clone https://github.com/your-username/react-router-project.git
 
 
 ---
+## 📸 Project Preview
 
-## 📸 Preview
-
-(./image/img-4.png)
+![Web-page](./image/img-4.png)
 Simple React web page with navigation using React Router.
 
 ---
